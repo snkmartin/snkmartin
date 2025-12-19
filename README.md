@@ -18,6 +18,9 @@ Tools: Salesforce CRM, Docker/K8s (Learning)
 - **Skills:** Strategic Planning, Critical Thinking, Pattern Recognition.
 
 💼 LinkedIn: https://linkedin.com/in/suhas-n-kumar-68411a249/
+
 🌐 Portfolio: suhas-react-portfolio.vercel.app 
+
 📧 Email: suhasnkumar3114@gmail.com
+
 ♟️ Chess.com: chess.com/member/snk_martin
